@@ -19,3 +19,11 @@ Automatic Updates: The sensor updates regularly, recalculating the projected cos
 Customizable through UI: Users can adjust settings without modifying code, making it adaptable and user-friendly.
 
 Overall, the component provides a running estimate of the monthly bill, updating as the month progresses based on current usage trends and specified parameters.
+
+-------------------------------------------------------------------------
+This is how the wizard appears - unfortunately I am having difficulty with adding destriptive text.
+![image](https://github.com/user-attachments/assets/46ddb6c3-e5b9-4e9e-85fe-80a9db3dc1b3)
+
+
+This is how it should (will one day) look:
+![image](https://github.com/user-attachments/assets/c49923af-9917-4d79-b70a-096883f6bfa4)
