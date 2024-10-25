@@ -26,4 +26,5 @@ This is how the wizard appears - unfortunately I am having difficulty with addin
 
 
 This is how it should (will one day) look:
+
 ![image](https://github.com/user-attachments/assets/c49923af-9917-4d79-b70a-096883f6bfa4)
